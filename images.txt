@@ -6,3 +6,8 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 golang:1.22.0-alpine
 alpine
+postgres:15.2
+consul:1.15.4
+redis:latest
+amir20/dozzle
+mysql:8.0.26
