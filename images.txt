@@ -12,3 +12,5 @@ redis:latest
 amir20/dozzle
 mysql:8.0.26
 nats:latest
+mongo:7.0.4
+rtsp/mongosh:2.1.0
