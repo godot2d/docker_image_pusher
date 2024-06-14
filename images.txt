@@ -11,3 +11,4 @@ consul:1.15.4
 redis:latest
 amir20/dozzle
 mysql:8.0.26
+nats:latest
