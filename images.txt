@@ -16,3 +16,5 @@ mongo:7.0.4
 #mongo:7.0.4
 #rtsp/mongosh:2.1.0
 #chenhw2/aliyun-ddns-cli
+nginx:alpine
+node:18.18.0
